@@ -1,0 +1,17 @@
+## YAML Template.
+---
+name: Tracker
+main: org.bukkit.awesomepants.tracker.Tracker
+version: 0.1
+website: http://www.example.com/404.html
+author: AwesomePants
+description: >
+             Basic tracking.
+commands:
+  tracker:
+    description: Tracking related stuff!
+    usage: |
+           Usage -
+           /<command> ???
+           /<command> profit
+ 
